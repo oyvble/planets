@@ -4,3 +4,4 @@ Ice skating is my favorite activity
 I am adding something
 My new favorite activity is skying!
 New line to test HEAD
+I am testing GitHub now!!!
